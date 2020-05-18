@@ -1,0 +1,14 @@
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\bin\Debug\netstandard2.0\xiang.yang.5G.LocalImg.deps.json
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\bin\Debug\netstandard2.0\xiang.yang.5G.LocalImg.dll
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\bin\Debug\netstandard2.0\ref\xiang.yang.5G.LocalImg.dll
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\bin\Debug\netstandard2.0\xiang.yang.5G.LocalImg.pdb
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\xiang.yang.5G.LocalImg.csprojAssemblyReference.cache
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\xiang.yang.5G.LocalImg.csproj.CoreCompileInputs.cache
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\xiang.yang.5G.LocalImg.AssemblyInfoInputs.cache
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\xiang.yang.5G.LocalImg.AssemblyInfo.cs
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\xiang.yang.5G.LocalImg.dll
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\ref\xiang.yang.5G.LocalImg.dll
+C:\Users\yangx\Downloads\18 05\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\xiang.yang.5G.LocalImg\obj\Debug\netstandard2.0\xiang.yang.5G.LocalImg.pdb
